@@ -1,4 +1,4 @@
-Learn JavaScript with these Unlimited Projects
+# Learn JavaScript with these Unlimited Projects
 This repository is a collection of JavaScript projects that can help you learn and practice different aspects of JavaScript programming. Each project has its own folder with its own README file that explains the project in detail, including its objectives, requirements, and how to run it.
 
 Prerequisites
